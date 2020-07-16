@@ -44,10 +44,6 @@ equivalent to
 ```bash
 $ ./main-nia-stl.x stl/ascii-cube.stl 
 ```
-withtout an argument. In this case, append-stl-nnbs.x will read an input file of a default name, **STL_INPUT.stl**, and generate  **STL_INPUT_NNBS.stl**, which will include the three nearest neighbors per facet. 
+In this case, main-nia-stl.x will open and read an input file **stl/ascii-cube.stl**, and generate  **ascii-cube_nia.stl**, which will include the all the nearest neighbor indices per facet. 
 
-###  To run with a specified STL input file
-```bash
-$ append-stl-nnbs.x hinge.stl 
-```
-will generate **hinge_nnbs.stl**. The output STL file has a postfix of "\_nnbs" before the dot and extension (.stl). 
+

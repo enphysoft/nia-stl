@@ -4,6 +4,7 @@ The neighbor-index-added stereolithography (nia-stl)
 ## Objective
 This package aims to calculate and include the primary and secondary nearest neighbors of each facet within a duplicated STL (stereolithography) file.  
 See the image below, where the red boxes indicate the appended information of three nearest neighbors, i.e., edge-sharing neibhgor facets.
+
 ![nnbd stl file, data structure](https://github.com/enphysoft/nia-stl/blob/master/image/cube-stl-org-small.png)
 ![nnbd stl file, data structure](https://github.com/enphysoft/nia-stl/blob/master/image/cube-stl-nia-boxed-small.png)
  

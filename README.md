@@ -15,17 +15,16 @@ See the image below, where the red boxes indicate the appended information of th
   - **math.f90** - pure math functions including operator routines
   - **mathstl.f90** - basic math functions for STL format and data structures
 - Make Utility 
-  - **Makefile** - the _makefile_ used to compile the source codes and generate an executable file, e.g., append-stl-nnbs.x
-- Input STL files
-  - **stl/ascii-hinge.stl** - input stl-file used as the first argument, i.e., $ append-stl-nnbs.x hinge.stl, to generate hinge_nnbs.stl.
-  - **stl/ascii-cube.stl** - default input stl-file if there is no argument, i.e., $ append-stl-nnbs.x, which will generate STL_INPUT_NNBS.stl.
-- Output STL files: as explained above
-  - **hinge_nnbs.stl**
-  - **stl/ascii-cube_nia.stl**
+  - **Makefile** - the _Makefile_ used to compile the source codes and generate an executable file, e.g., **main-nia-stl.x**
+- Sample STL files in ./stl/ directory
+  - **stl/ascii-hinge.stl**  
+  - **stl/ascii-cube.stl** 
+- Output STL files: 
+  - Output files will have **nia** as postfix of the input STL file name.
 - Output Analysis files
   - **data/NNBcheck.dat** - to compare two vertices, common to two edges of two contacting neighbors
   - **data/NNBfacet.dat** - to list three contacting facets (i.e., nearest neighbors) to a specific facet.
-  - **data/NNBverix.csv** - to list the full nearest neighbors with vertices paired.  
+  - **data/NNBvertx.csv** - to list the full nearest neighbors: facet id, the primary nearest neighbors, and the secondary nearest neighbors.  
   
 ## How to compile and run
 ### To clean 

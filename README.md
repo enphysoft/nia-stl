@@ -6,6 +6,7 @@ This package aims to calculate and include the primary and secondary nearest nei
 See the image below, where the red boxes indicate the appended information of three nearest neighbors, i.e., edge-sharing neibhgor facets.
  
 ![nnbd stl file, data structure](https://github.com/enphysoft/nia-stl/image/cube-stl-nia-boxed.png)
+![nnbd stl file, data structure](https://github.com/enphysoft/append-stl-nnbs/blob/master/src/regular-2-nnbd-stl-red.png)
  
  ## File list
 - Source code

@@ -42,7 +42,7 @@ $ make run
 ```
 equivalent to  
 ```bash
-$ append-stl-nnbs.x  
+$ ./main-nia-stl.x stl/ascii-cube.stl 
 ```
 withtout an argument. In this case, append-stl-nnbs.x will read an input file of a default name, **STL_INPUT.stl**, and generate  **STL_INPUT_NNBS.stl**, which will include the three nearest neighbors per facet. 
 

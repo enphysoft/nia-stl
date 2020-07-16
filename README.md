@@ -1,5 +1,6 @@
 # nia-stl
-The neighbor-index-added stereolithography (nia-stl)
+The neighbor-index-added stereolithography (nia-stl).
+A previous version can be found at https://github.com/enphysoft/append-stl-nnbs
 # Stereolithography format with the neighbor-index added 
 ## Objective
 This package aims to calculate and include the primary and secondary nearest neighbors of each facet within a duplicated STL (stereolithography) file. The left and right images below are the original and neighbor-index-added STL files. On the seventh line of the nia-stl file, the sequential index of facet, its three primary nearest neighbor indicies, and multiple secondary nearest neighbor indices are shown.  

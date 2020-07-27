@@ -1,0 +1,1752 @@
+solid nearest-neighbor-facets
+facet              1         2        26        83
+pair
+                   1         0         2         2
+                   2         1         0         3
+                   3         3         3         0
+endpair
+endfacet
+facet              2         1        29       127
+pair
+                   1         0         0         3
+                   2         1         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet              3         4        20        41
+pair
+                   1         0         2         2
+                   2         1         0         3
+                   3         3         3         0
+endpair
+endfacet
+facet              4         3        23        85
+pair
+                   1         0         0         3
+                   2         1         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet              5         6        14       169
+pair
+                   1         0         2         2
+                   2         1         0         3
+                   3         3         3         0
+endpair
+endfacet
+facet              6         5        17        43
+pair
+                   1         0         0         3
+                   2         1         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet              7         8        11       171
+pair
+                   1         2         0         3
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet              8         7        32       129
+pair
+                   1         2         2         2
+                   2         0         0         3
+                   3         3         3         0
+endpair
+endfacet
+facet              9        10        12       177
+pair
+                   1         2         0         2
+                   2         0         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet             10         9        11        37
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             11         7        10        32
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             12         9        13       179
+pair
+                   1         0         0         2
+                   2         1         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet             13        12        14        34
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             14         5        13        17
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             15        16        18        49
+pair
+                   1         2         0         2
+                   2         0         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet             16        15        17        33
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             17         6        14        16
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet             18        15        19        51
+pair
+                   1         0         0         3
+                   2         1         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet             19        18        20        35
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             20         3        19        23
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             21        22        24        91
+pair
+                   1         2         0         2
+                   2         0         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet             22        21        23        36
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             23         4        20        22
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet             24        21        25        93
+pair
+                   1         0         0         2
+                   2         1         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet             25        24        26        39
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             26         1        25        29
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             27        28        30       135
+pair
+                   1         2         0         2
+                   2         0         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet             28        27        29        40
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             29         2        26        28
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet             30        27        31       137
+pair
+                   1         0         0         3
+                   2         1         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet             31        30        32        38
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             32         8        11        31
+pair
+                   1         2         0         2
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet             33        16        34        35
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             34        13        33        37
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             35        19        33        36
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet             36        22        35        39
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             37        10        34        38
+pair
+                   1         2         0         2
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet             38        31        37        40
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             39        25        36        40
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet             40        28        38        39
+pair
+                   1         2         0         2
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet             41         3        42        53
+pair
+                   1         2         2         3
+                   2         3         0         2
+                   3         0         3         0
+endpair
+endfacet
+facet             42        41        65        86
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             43         6        44        50
+pair
+                   1         3         0         2
+                   2         1         1         1
+                   3         0         3         0
+endpair
+endfacet
+facet             44        43        60       170
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             45        46        55       211
+pair
+                   1         2         2         0
+                   2         0         1         2
+                   3         3         0         1
+endpair
+endfacet
+facet             46        45        63       174
+pair
+                   1         2         3         2
+                   2         0         2         0
+                   3         3         0         3
+endpair
+endfacet
+facet             47        48        56       213
+pair
+                   1         0         3         1
+                   2         1         2         0
+                   3         3         0         2
+endpair
+endfacet
+facet             48        47        68        88
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet             49        15        50        52
+pair
+                   1         2         3         2
+                   2         3         2         0
+                   3         0         0         3
+endpair
+endfacet
+facet             50        43        49        75
+pair
+                   1         2         3         1
+                   2         1         2         0
+                   3         0         0         2
+endpair
+endfacet
+facet             51        18        52        53
+pair
+                   1         3         0         2
+                   2         1         1         1
+                   3         0         3         0
+endpair
+endfacet
+facet             52        49        51        80
+pair
+                   1         2         0         1
+                   2         0         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet             53        41        51        81
+pair
+                   1         3         2         2
+                   2         2         1         0
+                   3         0         0         3
+endpair
+endfacet
+facet             54        55        58       219
+pair
+                   1         1         0         1
+                   2         3         2         0
+                   3         0         1         2
+endpair
+endfacet
+facet             55        45        54        77
+pair
+                   1         2         1         0
+                   2         1         3         3
+                   3         0         0         2
+endpair
+endfacet
+facet             56        47        57       222
+pair
+                   1         3         2         1
+                   2         2         1         0
+                   3         0         0         2
+endpair
+endfacet
+facet             57        56        58        69
+pair
+                   1         2         0         3
+                   2         1         1         0
+                   3         0         3         1
+endpair
+endfacet
+facet             58        54        57        79
+pair
+                   1         0         0         0
+                   2         2         1         2
+                   3         1         3         1
+endpair
+endfacet
+facet             59        60        62       187
+pair
+                   1         1         0         2
+                   2         3         1         0
+                   3         0         3         3
+endpair
+endfacet
+facet             60        44        59        75
+pair
+                   1         2         1         0
+                   2         1         3         1
+                   3         0         0         3
+endpair
+endfacet
+facet             61        62        63       189
+pair
+                   1         3         0         2
+                   2         2         1         0
+                   3         0         3         3
+endpair
+endfacet
+facet             62        59        61        72
+pair
+                   1         0         3         1
+                   2         1         2         3
+                   3         3         0         0
+endpair
+endfacet
+facet             63        46        61        77
+pair
+                   1         3         0         1
+                   2         2         1         3
+                   3         0         3         0
+endpair
+endfacet
+facet             64        65        67       101
+pair
+                   1         3         3         0
+                   2         2         0         1
+                   3         0         1         3
+endpair
+endfacet
+facet             65        42        64        82
+pair
+                   1         2         3         3
+                   2         1         2         0
+                   3         0         0         1
+endpair
+endfacet
+facet             66        67        68       103
+pair
+                   1         0         1         1
+                   2         2         3         0
+                   3         1         0         2
+endpair
+endfacet
+facet             67        64        66        70
+pair
+                   1         3         0         0
+                   2         0         2         1
+                   3         1         1         3
+endpair
+endfacet
+facet             68        48        66        69
+pair
+                   1         2         1         0
+                   2         1         3         3
+                   3         0         0         2
+endpair
+endfacet
+facet             69        57        68        71
+pair
+                   1         3         0         1
+                   2         0         3         3
+                   3         1         2         0
+endpair
+endfacet
+facet             70        67        71        82
+pair
+                   1         0         3         0
+                   2         1         2         2
+                   3         3         0         1
+endpair
+endfacet
+facet             71        69        70        78
+pair
+                   1         1         3         3
+                   2         3         2         2
+                   3         0         0         0
+endpair
+endfacet
+facet             72        62        73        76
+pair
+                   1         1         2         0
+                   2         3         1         1
+                   3         0         0         3
+endpair
+endfacet
+facet             73        72        74        78
+pair
+                   1         2         0         1
+                   2         1         3         0
+                   3         0         2         2
+endpair
+endfacet
+facet             74        73        75        80
+pair
+                   1         0         2         3
+                   2         3         0         2
+                   3         2         3         0
+endpair
+endfacet
+facet             75        50        60        74
+pair
+                   1         1         0         2
+                   2         0         1         0
+                   3         2         3         3
+endpair
+endfacet
+facet             76        72        77        79
+pair
+                   1         0         0         3
+                   2         1         2         2
+                   3         3         1         0
+endpair
+endfacet
+facet             77        55        63        76
+pair
+                   1         0         1         0
+                   2         3         3         2
+                   3         2         0         1
+endpair
+endfacet
+facet             78        71        73        79
+pair
+                   1         3         1         3
+                   2         2         0         0
+                   3         0         2         1
+endpair
+endfacet
+facet             79        58        76        78
+pair
+                   1         0         3         3
+                   2         2         2         0
+                   3         1         0         1
+endpair
+endfacet
+facet             80        52        74        81
+pair
+                   1         1         3         2
+                   2         3         2         1
+                   3         0         0         0
+endpair
+endfacet
+facet             81        53        80        82
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             82        65        70        81
+pair
+                   1         3         0         2
+                   2         0         2         0
+                   3         1         1         3
+endpair
+endfacet
+facet             83         1        84        95
+pair
+                   1         2         2         1
+                   2         3         0         3
+                   3         0         3         0
+endpair
+endfacet
+facet             84        83       107       128
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet             85         4        86        92
+pair
+                   1         3         0         2
+                   2         1         1         1
+                   3         0         3         0
+endpair
+endfacet
+facet             86        42        85       102
+pair
+                   1         2         0         2
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet             87        88        97       214
+pair
+                   1         2         2         0
+                   2         0         1         2
+                   3         3         0         1
+endpair
+endfacet
+facet             88        48        87       105
+pair
+                   1         0         2         3
+                   2         1         0         2
+                   3         3         3         0
+endpair
+endfacet
+facet             89        90       100       215
+pair
+                   1         2         2         0
+                   2         1         0         2
+                   3         0         3         1
+endpair
+endfacet
+facet             90        89       110       132
+pair
+                   1         2         0         3
+                   2         1         1         0
+                   3         0         3         1
+endpair
+endfacet
+facet             91        21        92        94
+pair
+                   1         2         3         1
+                   2         3         2         0
+                   3         0         0         2
+endpair
+endfacet
+facet             92        85        91       120
+pair
+                   1         2         3         3
+                   2         1         2         0
+                   3         0         0         1
+endpair
+endfacet
+facet             93        24        94        95
+pair
+                   1         2         3         2
+                   2         3         2         0
+                   3         0         0         3
+endpair
+endfacet
+facet             94        91        93       122
+pair
+                   1         1         3         2
+                   2         0         2         0
+                   3         2         0         3
+endpair
+endfacet
+facet             95        83        93       125
+pair
+                   1         1         2         3
+                   2         3         0         2
+                   3         0         3         0
+endpair
+endfacet
+facet             96        97        99       225
+pair
+                   1         1         0         1
+                   2         3         2         0
+                   3         0         1         2
+endpair
+endfacet
+facet             97        87        96       112
+pair
+                   1         2         1         0
+                   2         1         3         2
+                   3         0         0         1
+endpair
+endfacet
+facet             98        99       100       228
+pair
+                   1         3         1         0
+                   2         0         3         2
+                   3         1         0         1
+endpair
+endfacet
+facet             99        96        98       115
+pair
+                   1         0         3         0
+                   2         2         0         1
+                   3         1         1         3
+endpair
+endfacet
+facet            100        89        98       119
+pair
+                   1         2         1         1
+                   2         0         3         3
+                   3         3         0         0
+endpair
+endfacet
+facet            101        64       102       104
+pair
+                   1         0         1         0
+                   2         1         3         2
+                   3         3         0         1
+endpair
+endfacet
+facet            102        86       101       121
+pair
+                   1         2         1         0
+                   2         1         3         3
+                   3         0         0         2
+endpair
+endfacet
+facet            103        66       104       105
+pair
+                   1         1         0         3
+                   2         0         1         0
+                   3         2         3         1
+endpair
+endfacet
+facet            104       101       103       114
+pair
+                   1         0         0         0
+                   2         2         1         2
+                   3         1         3         1
+endpair
+endfacet
+facet            105        88       103       112
+pair
+                   1         3         3         3
+                   2         2         0         2
+                   3         0         1         0
+endpair
+endfacet
+facet            106       107       109       145
+pair
+                   1         3         1         0
+                   2         2         0         1
+                   3         0         2         3
+endpair
+endfacet
+facet            107        84       106       125
+pair
+                   1         2         3         3
+                   2         1         2         0
+                   3         0         0         1
+endpair
+endfacet
+facet            108       109       110       147
+pair
+                   1         3         2         0
+                   2         2         0         1
+                   3         0         3         3
+endpair
+endfacet
+facet            109       106       108       126
+pair
+                   1         1         3         1
+                   2         0         2         0
+                   3         2         0         2
+endpair
+endfacet
+facet            110        90       108       119
+pair
+                   1         0         2         3
+                   2         1         0         2
+                   3         3         3         0
+endpair
+endfacet
+facet            111       112       113       115
+pair
+                   1         3         3         0
+                   2         0         2         2
+                   3         1         0         1
+endpair
+endfacet
+facet            112        97       105       111
+pair
+                   1         0         3         3
+                   2         2         2         0
+                   3         1         0         1
+endpair
+endfacet
+facet            113       111       114       117
+pair
+                   1         3         3         3
+                   2         2         0         2
+                   3         0         1         0
+endpair
+endfacet
+facet            114       104       113       121
+pair
+                   1         0         3         0
+                   2         2         0         2
+                   3         1         1         1
+endpair
+endfacet
+facet            115        99       111       116
+pair
+                   1         0         0         0
+                   2         1         2         1
+                   3         3         1         3
+endpair
+endfacet
+facet            116       115       118       119
+pair
+                   1         0         1         0
+                   2         1         3         2
+                   3         3         0         1
+endpair
+endfacet
+facet            117       113       118       123
+pair
+                   1         3         2         2
+                   2         2         1         0
+                   3         0         0         3
+endpair
+endfacet
+facet            118       116       117       126
+pair
+                   1         1         2         0
+                   2         3         1         3
+                   3         0         0         2
+endpair
+endfacet
+facet            119       100       110       116
+pair
+                   1         1         3         0
+                   2         3         2         2
+                   3         0         0         1
+endpair
+endfacet
+facet            120        92       121       122
+pair
+                   1         3         0         2
+                   2         0         1         1
+                   3         1         3         0
+endpair
+endfacet
+facet            121       102       114       120
+pair
+                   1         0         0         0
+                   2         3         2         1
+                   3         2         1         3
+endpair
+endfacet
+facet            122        94       120       123
+pair
+                   1         2         2         3
+                   2         0         1         0
+                   3         3         0         1
+endpair
+endfacet
+facet            123       117       122       124
+pair
+                   1         2         3         3
+                   2         0         0         2
+                   3         3         1         0
+endpair
+endfacet
+facet            124       123       125       126
+pair
+                   1         3         1         1
+                   2         2         0         3
+                   3         0         2         0
+endpair
+endfacet
+facet            125        95       107       124
+pair
+                   1         3         3         1
+                   2         2         0         0
+                   3         0         1         2
+endpair
+endfacet
+facet            126       109       118       124
+pair
+                   1         1         0         1
+                   2         0         3         3
+                   3         2         2         0
+endpair
+endfacet
+facet            127         2       128       136
+pair
+                   1         3         0         2
+                   2         1         1         1
+                   3         0         3         0
+endpair
+endfacet
+facet            128        84       127       146
+pair
+                   1         2         0         2
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet            129         8       130       139
+pair
+                   1         2         2         3
+                   2         3         0         2
+                   3         0         3         0
+endpair
+endfacet
+facet            130       129       151       172
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            131       132       141       216
+pair
+                   1         2         2         0
+                   2         0         1         2
+                   3         3         0         1
+endpair
+endfacet
+facet            132        90       131       149
+pair
+                   1         3         2         3
+                   2         0         0         2
+                   3         1         3         0
+endpair
+endfacet
+facet            133       134       142       217
+pair
+                   1         0         3         1
+                   2         1         2         0
+                   3         3         0         2
+endpair
+endfacet
+facet            134       133       154       176
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet            135        27       136       138
+pair
+                   1         2         3         2
+                   2         3         2         0
+                   3         0         0         3
+endpair
+endfacet
+facet            136       127       135       161
+pair
+                   1         2         3         1
+                   2         1         2         0
+                   3         0         0         2
+endpair
+endfacet
+facet            137        30       138       139
+pair
+                   1         3         0         2
+                   2         1         1         1
+                   3         0         3         0
+endpair
+endfacet
+facet            138       135       137       166
+pair
+                   1         2         0         1
+                   2         0         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet            139       129       137       167
+pair
+                   1         3         2         2
+                   2         2         1         0
+                   3         0         0         3
+endpair
+endfacet
+facet            140       141       144       231
+pair
+                   1         1         0         1
+                   2         3         2         0
+                   3         0         1         2
+endpair
+endfacet
+facet            141       131       140       163
+pair
+                   1         2         1         0
+                   2         1         3         3
+                   3         0         0         2
+endpair
+endfacet
+facet            142       133       143       234
+pair
+                   1         3         2         1
+                   2         2         1         0
+                   3         0         0         2
+endpair
+endfacet
+facet            143       142       144       155
+pair
+                   1         2         0         3
+                   2         1         1         0
+                   3         0         3         1
+endpair
+endfacet
+facet            144       140       143       165
+pair
+                   1         0         0         0
+                   2         2         1         2
+                   3         1         3         1
+endpair
+endfacet
+facet            145       106       146       148
+pair
+                   1         0         1         0
+                   2         1         3         1
+                   3         3         0         3
+endpair
+endfacet
+facet            146       128       145       161
+pair
+                   1         2         1         0
+                   2         1         3         1
+                   3         0         0         3
+endpair
+endfacet
+facet            147       108       148       149
+pair
+                   1         0         3         0
+                   2         1         2         1
+                   3         3         0         3
+endpair
+endfacet
+facet            148       145       147       158
+pair
+                   1         0         3         1
+                   2         1         2         3
+                   3         3         0         0
+endpair
+endfacet
+facet            149       132       147       163
+pair
+                   1         3         0         1
+                   2         2         1         3
+                   3         0         3         0
+endpair
+endfacet
+facet            150       151       153       192
+pair
+                   1         3         3         0
+                   2         2         0         3
+                   3         0         1         2
+endpair
+endfacet
+facet            151       130       150       168
+pair
+                   1         2         3         3
+                   2         1         2         0
+                   3         0         0         1
+endpair
+endfacet
+facet            152       153       154       193
+pair
+                   1         0         1         3
+                   2         2         3         0
+                   3         1         0         1
+endpair
+endfacet
+facet            153       150       152       156
+pair
+                   1         3         0         0
+                   2         0         2         1
+                   3         1         1         3
+endpair
+endfacet
+facet            154       134       152       155
+pair
+                   1         2         1         0
+                   2         1         3         3
+                   3         0         0         2
+endpair
+endfacet
+facet            155       143       154       157
+pair
+                   1         3         0         1
+                   2         0         3         3
+                   3         1         2         0
+endpair
+endfacet
+facet            156       153       157       168
+pair
+                   1         0         3         0
+                   2         1         2         2
+                   3         3         0         1
+endpair
+endfacet
+facet            157       155       156       164
+pair
+                   1         1         3         3
+                   2         3         2         2
+                   3         0         0         0
+endpair
+endfacet
+facet            158       148       159       162
+pair
+                   1         1         2         0
+                   2         3         1         1
+                   3         0         0         3
+endpair
+endfacet
+facet            159       158       160       164
+pair
+                   1         2         0         1
+                   2         1         3         0
+                   3         0         2         2
+endpair
+endfacet
+facet            160       159       161       166
+pair
+                   1         0         2         3
+                   2         3         0         2
+                   3         2         3         0
+endpair
+endfacet
+facet            161       136       146       160
+pair
+                   1         1         0         2
+                   2         0         1         0
+                   3         2         3         3
+endpair
+endfacet
+facet            162       158       163       165
+pair
+                   1         0         0         3
+                   2         1         2         2
+                   3         3         1         0
+endpair
+endfacet
+facet            163       141       149       162
+pair
+                   1         0         1         0
+                   2         3         3         2
+                   3         2         0         1
+endpair
+endfacet
+facet            164       157       159       165
+pair
+                   1         3         1         3
+                   2         2         0         0
+                   3         0         2         1
+endpair
+endfacet
+facet            165       144       162       164
+pair
+                   1         0         3         3
+                   2         2         2         0
+                   3         1         0         1
+endpair
+endfacet
+facet            166       138       160       167
+pair
+                   1         1         3         2
+                   2         3         2         1
+                   3         0         0         0
+endpair
+endfacet
+facet            167       139       166       168
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            168       151       156       167
+pair
+                   1         3         0         2
+                   2         0         2         0
+                   3         1         1         3
+endpair
+endfacet
+facet            169         5       170       181
+pair
+                   1         2         2         1
+                   2         3         0         3
+                   3         0         3         0
+endpair
+endfacet
+facet            170        44       169       188
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet            171         7       172       178
+pair
+                   1         3         0         2
+                   2         1         1         1
+                   3         0         3         0
+endpair
+endfacet
+facet            172       130       171       192
+pair
+                   1         2         0         1
+                   2         0         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet            173       174       186       212
+pair
+                   1         0         2         1
+                   2         1         1         0
+                   3         3         0         2
+endpair
+endfacet
+facet            174        46       173       189
+pair
+                   1         2         0         1
+                   2         0         1         3
+                   3         3         3         0
+endpair
+endfacet
+facet            175       176       183       218
+pair
+                   1         2         2         0
+                   2         0         1         2
+                   3         3         0         1
+endpair
+endfacet
+facet            176       134       175       196
+pair
+                   1         0         2         3
+                   2         1         0         2
+                   3         3         3         0
+endpair
+endfacet
+facet            177         9       178       180
+pair
+                   1         2         3         2
+                   2         3         2         0
+                   3         0         0         3
+endpair
+endfacet
+facet            178       171       177       201
+pair
+                   1         2         3         3
+                   2         1         2         0
+                   3         0         0         1
+endpair
+endfacet
+facet            179        12       180       181
+pair
+                   1         2         1         2
+                   2         3         3         0
+                   3         0         0         3
+endpair
+endfacet
+facet            180       177       179       197
+pair
+                   1         2         1         1
+                   2         0         3         3
+                   3         3         0         0
+endpair
+endfacet
+facet            181       169       179       199
+pair
+                   1         1         2         3
+                   2         3         0         2
+                   3         0         3         0
+endpair
+endfacet
+facet            182       183       185       237
+pair
+                   1         1         0         1
+                   2         3         2         0
+                   3         0         1         2
+endpair
+endfacet
+facet            183       175       182       209
+pair
+                   1         2         1         0
+                   2         1         3         3
+                   3         0         0         2
+endpair
+endfacet
+facet            184       185       186       240
+pair
+                   1         3         3         0
+                   2         0         2         2
+                   3         1         0         1
+endpair
+endfacet
+facet            185       182       184       207
+pair
+                   1         0         3         0
+                   2         2         0         2
+                   3         1         1         1
+endpair
+endfacet
+facet            186       173       184       210
+pair
+                   1         2         3         3
+                   2         1         2         0
+                   3         0         0         1
+endpair
+endfacet
+facet            187        59       188       191
+pair
+                   1         2         3         1
+                   2         0         2         0
+                   3         3         0         2
+endpair
+endfacet
+facet            188       170       187       199
+pair
+                   1         2         3         3
+                   2         1         2         0
+                   3         0         0         1
+endpair
+endfacet
+facet            189        61       174       190
+pair
+                   1         2         1         2
+                   2         0         3         1
+                   3         3         0         0
+endpair
+endfacet
+facet            190       189       191       210
+pair
+                   1         2         2         0
+                   2         1         0         3
+                   3         0         3         2
+endpair
+endfacet
+facet            191       187       190       204
+pair
+                   1         1         2         1
+                   2         0         0         0
+                   3         2         3         2
+endpair
+endfacet
+facet            192       150       172       194
+pair
+                   1         0         1         2
+                   2         3         3         1
+                   3         2         0         0
+endpair
+endfacet
+facet            193       152       195       196
+pair
+                   1         3         1         0
+                   2         0         3         1
+                   3         1         0         3
+endpair
+endfacet
+facet            194       192       195       201
+pair
+                   1         2         1         0
+                   2         1         0         3
+                   3         0         2         2
+endpair
+endfacet
+facet            195       193       194       205
+pair
+                   1         1         1         0
+                   2         3         0         3
+                   3         0         2         2
+endpair
+endfacet
+facet            196       176       193       209
+pair
+                   1         3         0         1
+                   2         2         1         3
+                   3         0         3         0
+endpair
+endfacet
+facet            197       180       198       200
+pair
+                   1         1         3         0
+                   2         3         2         2
+                   3         0         0         1
+endpair
+endfacet
+facet            198       197       199       204
+pair
+                   1         3         1         1
+                   2         2         0         3
+                   3         0         2         0
+endpair
+endfacet
+facet            199       181       188       198
+pair
+                   1         3         3         1
+                   2         2         0         0
+                   3         0         1         2
+endpair
+endfacet
+facet            200       197       201       202
+pair
+                   1         0         1         0
+                   2         2         0         3
+                   3         1         2         2
+endpair
+endfacet
+facet            201       178       194       200
+pair
+                   1         3         0         1
+                   2         0         3         0
+                   3         1         2         2
+endpair
+endfacet
+facet            202       200       203       205
+pair
+                   1         0         1         1
+                   2         3         0         3
+                   3         2         2         0
+endpair
+endfacet
+facet            203       202       204       208
+pair
+                   1         1         0         1
+                   2         0         3         0
+                   3         2         2         2
+endpair
+endfacet
+facet            204       191       198       203
+pair
+                   1         1         1         0
+                   2         0         3         3
+                   3         2         0         2
+endpair
+endfacet
+facet            205       195       202       206
+pair
+                   1         0         1         1
+                   2         3         3         3
+                   3         2         0         0
+endpair
+endfacet
+facet            206       205       207       209
+pair
+                   1         1         3         0
+                   2         3         2         2
+                   3         0         0         1
+endpair
+endfacet
+facet            207       185       206       208
+pair
+                   1         0         3         3
+                   2         2         2         0
+                   3         1         0         1
+endpair
+endfacet
+facet            208       203       207       210
+pair
+                   1         1         3         0
+                   2         0         0         2
+                   3         2         1         1
+endpair
+endfacet
+facet            209       183       196       206
+pair
+                   1         0         1         0
+                   2         3         3         2
+                   3         2         0         1
+endpair
+endfacet
+facet            210       186       190       208
+pair
+                   1         3         0         0
+                   2         0         3         2
+                   3         1         2         1
+endpair
+endfacet
+facet            211        45       212       221
+pair
+                   1         0         2         0
+                   2         2         0         1
+                   3         1         3         3
+endpair
+endfacet
+facet            212       173       211       242
+pair
+                   1         1         2         2
+                   2         0         0         0
+                   3         2         3         3
+endpair
+endfacet
+facet            213        47       214       224
+pair
+                   1         1         0         2
+                   2         0         1         0
+                   3         2         3         3
+endpair
+endfacet
+facet            214        87       213       227
+pair
+                   1         0         0         0
+                   2         2         1         1
+                   3         1         3         3
+endpair
+endfacet
+facet            215        89       216       230
+pair
+                   1         0         0         2
+                   2         2         1         0
+                   3         1         3         3
+endpair
+endfacet
+facet            216       131       215       233
+pair
+                   1         0         0         0
+                   2         2         1         1
+                   3         1         3         3
+endpair
+endfacet
+facet            217       133       218       236
+pair
+                   1         1         0         2
+                   2         0         1         0
+                   3         2         3         3
+endpair
+endfacet
+facet            218       175       217       239
+pair
+                   1         0         0         0
+                   2         2         1         1
+                   3         1         3         3
+endpair
+endfacet
+facet            219        54       220       222
+pair
+                   1         1         2         0
+                   2         0         0         1
+                   3         2         3         3
+endpair
+endfacet
+facet            220       219       221       243
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            221       211       220       242
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet            222        56       219       223
+pair
+                   1         1         0         0
+                   2         0         1         1
+                   3         2         3         3
+endpair
+endfacet
+facet            223       222       224       245
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet            224       213       223       227
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            225        96       226       228
+pair
+                   1         1         2         0
+                   2         0         0         1
+                   3         2         3         3
+endpair
+endfacet
+facet            226       225       227       246
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            227       214       224       226
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet            228        98       225       229
+pair
+                   1         0         0         0
+                   2         2         1         1
+                   3         1         3         3
+endpair
+endfacet
+facet            229       228       230       249
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet            230       215       229       233
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            231       140       232       234
+pair
+                   1         1         2         0
+                   2         0         0         1
+                   3         2         3         3
+endpair
+endfacet
+facet            232       231       233       250
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            233       216       230       232
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet            234       142       231       235
+pair
+                   1         1         0         0
+                   2         0         1         1
+                   3         2         3         3
+endpair
+endfacet
+facet            235       234       236       248
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet            236       217       235       239
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            237       182       238       240
+pair
+                   1         1         2         0
+                   2         0         0         1
+                   3         2         3         3
+endpair
+endfacet
+facet            238       237       239       247
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            239       218       236       238
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet            240       184       237       241
+pair
+                   1         0         0         0
+                   2         2         1         1
+                   3         1         3         3
+endpair
+endfacet
+facet            241       240       242       244
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet            242       212       221       241
+pair
+                   1         2         0         2
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet            243       220       244       245
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            244       241       243       247
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet            245       223       243       246
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet            246       226       245       249
+pair
+                   1         2         2         2
+                   2         0         1         0
+                   3         3         0         3
+endpair
+endfacet
+facet            247       238       244       248
+pair
+                   1         2         0         2
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+facet            248       235       247       250
+pair
+                   1         0         2         0
+                   2         1         1         1
+                   3         3         0         3
+endpair
+endfacet
+facet            249       229       246       250
+pair
+                   1         0         2         2
+                   2         1         0         1
+                   3         3         3         0
+endpair
+endfacet
+facet            250       232       248       249
+pair
+                   1         2         0         2
+                   2         0         1         1
+                   3         3         3         0
+endpair
+endfacet
+endsolid nearest-neighbor-facets

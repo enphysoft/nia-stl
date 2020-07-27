@@ -1,0 +1,1000 @@
+ neighbors of            1           2          26          83
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           3
+ pairs of vtx            3           3           3           0
+ neighbors of            2           1          29         127
+ pairs of vtx            1           0           0           3
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of            3           4          20          41
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           3
+ pairs of vtx            3           3           3           0
+ neighbors of            4           3          23          85
+ pairs of vtx            1           0           0           3
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of            5           6          14         169
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           3
+ pairs of vtx            3           3           3           0
+ neighbors of            6           5          17          43
+ pairs of vtx            1           0           0           3
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of            7           8          11         171
+ pairs of vtx            1           2           0           3
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of            8           7          32         129
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           0           3
+ pairs of vtx            3           3           3           0
+ neighbors of            9          10          12         177
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of           10           9          11          37
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           11           7          10          32
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           12           9          13         179
+ pairs of vtx            1           0           0           2
+ pairs of vtx            2           1           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of           13          12          14          34
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           14           5          13          17
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           15          16          18          49
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of           16          15          17          33
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           17           6          14          16
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of           18          15          19          51
+ pairs of vtx            1           0           0           3
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of           19          18          20          35
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           20           3          19          23
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           21          22          24          91
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of           22          21          23          36
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           23           4          20          22
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of           24          21          25          93
+ pairs of vtx            1           0           0           2
+ pairs of vtx            2           1           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of           25          24          26          39
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           26           1          25          29
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           27          28          30         135
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of           28          27          29          40
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           29           2          26          28
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of           30          27          31         137
+ pairs of vtx            1           0           0           3
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of           31          30          32          38
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           32           8          11          31
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of           33          16          34          35
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           34          13          33          37
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           35          19          33          36
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of           36          22          35          39
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           37          10          34          38
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of           38          31          37          40
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           39          25          36          40
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of           40          28          38          39
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of           41           3          42          53
+ pairs of vtx            1           2           2           3
+ pairs of vtx            2           3           0           2
+ pairs of vtx            3           0           3           0
+ neighbors of           42          41          65          86
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           43           6          44          50
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           0           3           0
+ neighbors of           44          43          60         170
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           45          46          55         211
+ pairs of vtx            1           2           2           0
+ pairs of vtx            2           0           1           2
+ pairs of vtx            3           3           0           1
+ neighbors of           46          45          63         174
+ pairs of vtx            1           2           3           2
+ pairs of vtx            2           0           2           0
+ pairs of vtx            3           3           0           3
+ neighbors of           47          48          56         213
+ pairs of vtx            1           0           3           1
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           3           0           2
+ neighbors of           48          47          68          88
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of           49          15          50          52
+ pairs of vtx            1           2           3           2
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           0           3
+ neighbors of           50          43          49          75
+ pairs of vtx            1           2           3           1
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           2
+ neighbors of           51          18          52          53
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           0           3           0
+ neighbors of           52          49          51          80
+ pairs of vtx            1           2           0           1
+ pairs of vtx            2           0           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of           53          41          51          81
+ pairs of vtx            1           3           2           2
+ pairs of vtx            2           2           1           0
+ pairs of vtx            3           0           0           3
+ neighbors of           54          55          58         219
+ pairs of vtx            1           1           0           1
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           1           2
+ neighbors of           55          45          54          77
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           3
+ pairs of vtx            3           0           0           2
+ neighbors of           56          47          57         222
+ pairs of vtx            1           3           2           1
+ pairs of vtx            2           2           1           0
+ pairs of vtx            3           0           0           2
+ neighbors of           57          56          58          69
+ pairs of vtx            1           2           0           3
+ pairs of vtx            2           1           1           0
+ pairs of vtx            3           0           3           1
+ neighbors of           58          54          57          79
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           2           1           2
+ pairs of vtx            3           1           3           1
+ neighbors of           59          60          62         187
+ pairs of vtx            1           1           0           2
+ pairs of vtx            2           3           1           0
+ pairs of vtx            3           0           3           3
+ neighbors of           60          44          59          75
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           1
+ pairs of vtx            3           0           0           3
+ neighbors of           61          62          63         189
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           2           1           0
+ pairs of vtx            3           0           3           3
+ neighbors of           62          59          61          72
+ pairs of vtx            1           0           3           1
+ pairs of vtx            2           1           2           3
+ pairs of vtx            3           3           0           0
+ neighbors of           63          46          61          77
+ pairs of vtx            1           3           0           1
+ pairs of vtx            2           2           1           3
+ pairs of vtx            3           0           3           0
+ neighbors of           64          65          67         101
+ pairs of vtx            1           3           3           0
+ pairs of vtx            2           2           0           1
+ pairs of vtx            3           0           1           3
+ neighbors of           65          42          64          82
+ pairs of vtx            1           2           3           3
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           1
+ neighbors of           66          67          68         103
+ pairs of vtx            1           0           1           1
+ pairs of vtx            2           2           3           0
+ pairs of vtx            3           1           0           2
+ neighbors of           67          64          66          70
+ pairs of vtx            1           3           0           0
+ pairs of vtx            2           0           2           1
+ pairs of vtx            3           1           1           3
+ neighbors of           68          48          66          69
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           3
+ pairs of vtx            3           0           0           2
+ neighbors of           69          57          68          71
+ pairs of vtx            1           3           0           1
+ pairs of vtx            2           0           3           3
+ pairs of vtx            3           1           2           0
+ neighbors of           70          67          71          82
+ pairs of vtx            1           0           3           0
+ pairs of vtx            2           1           2           2
+ pairs of vtx            3           3           0           1
+ neighbors of           71          69          70          78
+ pairs of vtx            1           1           3           3
+ pairs of vtx            2           3           2           2
+ pairs of vtx            3           0           0           0
+ neighbors of           72          62          73          76
+ pairs of vtx            1           1           2           0
+ pairs of vtx            2           3           1           1
+ pairs of vtx            3           0           0           3
+ neighbors of           73          72          74          78
+ pairs of vtx            1           2           0           1
+ pairs of vtx            2           1           3           0
+ pairs of vtx            3           0           2           2
+ neighbors of           74          73          75          80
+ pairs of vtx            1           0           2           3
+ pairs of vtx            2           3           0           2
+ pairs of vtx            3           2           3           0
+ neighbors of           75          50          60          74
+ pairs of vtx            1           1           0           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           2           3           3
+ neighbors of           76          72          77          79
+ pairs of vtx            1           0           0           3
+ pairs of vtx            2           1           2           2
+ pairs of vtx            3           3           1           0
+ neighbors of           77          55          63          76
+ pairs of vtx            1           0           1           0
+ pairs of vtx            2           3           3           2
+ pairs of vtx            3           2           0           1
+ neighbors of           78          71          73          79
+ pairs of vtx            1           3           1           3
+ pairs of vtx            2           2           0           0
+ pairs of vtx            3           0           2           1
+ neighbors of           79          58          76          78
+ pairs of vtx            1           0           3           3
+ pairs of vtx            2           2           2           0
+ pairs of vtx            3           1           0           1
+ neighbors of           80          52          74          81
+ pairs of vtx            1           1           3           2
+ pairs of vtx            2           3           2           1
+ pairs of vtx            3           0           0           0
+ neighbors of           81          53          80          82
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           82          65          70          81
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           0           2           0
+ pairs of vtx            3           1           1           3
+ neighbors of           83           1          84          95
+ pairs of vtx            1           2           2           1
+ pairs of vtx            2           3           0           3
+ pairs of vtx            3           0           3           0
+ neighbors of           84          83         107         128
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of           85           4          86          92
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           0           3           0
+ neighbors of           86          42          85         102
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of           87          88          97         214
+ pairs of vtx            1           2           2           0
+ pairs of vtx            2           0           1           2
+ pairs of vtx            3           3           0           1
+ neighbors of           88          48          87         105
+ pairs of vtx            1           0           2           3
+ pairs of vtx            2           1           0           2
+ pairs of vtx            3           3           3           0
+ neighbors of           89          90         100         215
+ pairs of vtx            1           2           2           0
+ pairs of vtx            2           1           0           2
+ pairs of vtx            3           0           3           1
+ neighbors of           90          89         110         132
+ pairs of vtx            1           2           0           3
+ pairs of vtx            2           1           1           0
+ pairs of vtx            3           0           3           1
+ neighbors of           91          21          92          94
+ pairs of vtx            1           2           3           1
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           0           2
+ neighbors of           92          85          91         120
+ pairs of vtx            1           2           3           3
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           1
+ neighbors of           93          24          94          95
+ pairs of vtx            1           2           3           2
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           0           3
+ neighbors of           94          91          93         122
+ pairs of vtx            1           1           3           2
+ pairs of vtx            2           0           2           0
+ pairs of vtx            3           2           0           3
+ neighbors of           95          83          93         125
+ pairs of vtx            1           1           2           3
+ pairs of vtx            2           3           0           2
+ pairs of vtx            3           0           3           0
+ neighbors of           96          97          99         225
+ pairs of vtx            1           1           0           1
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           1           2
+ neighbors of           97          87          96         112
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           2
+ pairs of vtx            3           0           0           1
+ neighbors of           98          99         100         228
+ pairs of vtx            1           3           1           0
+ pairs of vtx            2           0           3           2
+ pairs of vtx            3           1           0           1
+ neighbors of           99          96          98         115
+ pairs of vtx            1           0           3           0
+ pairs of vtx            2           2           0           1
+ pairs of vtx            3           1           1           3
+ neighbors of          100          89          98         119
+ pairs of vtx            1           2           1           1
+ pairs of vtx            2           0           3           3
+ pairs of vtx            3           3           0           0
+ neighbors of          101          64         102         104
+ pairs of vtx            1           0           1           0
+ pairs of vtx            2           1           3           2
+ pairs of vtx            3           3           0           1
+ neighbors of          102          86         101         121
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           3
+ pairs of vtx            3           0           0           2
+ neighbors of          103          66         104         105
+ pairs of vtx            1           1           0           3
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           2           3           1
+ neighbors of          104         101         103         114
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           2           1           2
+ pairs of vtx            3           1           3           1
+ neighbors of          105          88         103         112
+ pairs of vtx            1           3           3           3
+ pairs of vtx            2           2           0           2
+ pairs of vtx            3           0           1           0
+ neighbors of          106         107         109         145
+ pairs of vtx            1           3           1           0
+ pairs of vtx            2           2           0           1
+ pairs of vtx            3           0           2           3
+ neighbors of          107          84         106         125
+ pairs of vtx            1           2           3           3
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           1
+ neighbors of          108         109         110         147
+ pairs of vtx            1           3           2           0
+ pairs of vtx            2           2           0           1
+ pairs of vtx            3           0           3           3
+ neighbors of          109         106         108         126
+ pairs of vtx            1           1           3           1
+ pairs of vtx            2           0           2           0
+ pairs of vtx            3           2           0           2
+ neighbors of          110          90         108         119
+ pairs of vtx            1           0           2           3
+ pairs of vtx            2           1           0           2
+ pairs of vtx            3           3           3           0
+ neighbors of          111         112         113         115
+ pairs of vtx            1           3           3           0
+ pairs of vtx            2           0           2           2
+ pairs of vtx            3           1           0           1
+ neighbors of          112          97         105         111
+ pairs of vtx            1           0           3           3
+ pairs of vtx            2           2           2           0
+ pairs of vtx            3           1           0           1
+ neighbors of          113         111         114         117
+ pairs of vtx            1           3           3           3
+ pairs of vtx            2           2           0           2
+ pairs of vtx            3           0           1           0
+ neighbors of          114         104         113         121
+ pairs of vtx            1           0           3           0
+ pairs of vtx            2           2           0           2
+ pairs of vtx            3           1           1           1
+ neighbors of          115          99         111         116
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           1           2           1
+ pairs of vtx            3           3           1           3
+ neighbors of          116         115         118         119
+ pairs of vtx            1           0           1           0
+ pairs of vtx            2           1           3           2
+ pairs of vtx            3           3           0           1
+ neighbors of          117         113         118         123
+ pairs of vtx            1           3           2           2
+ pairs of vtx            2           2           1           0
+ pairs of vtx            3           0           0           3
+ neighbors of          118         116         117         126
+ pairs of vtx            1           1           2           0
+ pairs of vtx            2           3           1           3
+ pairs of vtx            3           0           0           2
+ neighbors of          119         100         110         116
+ pairs of vtx            1           1           3           0
+ pairs of vtx            2           3           2           2
+ pairs of vtx            3           0           0           1
+ neighbors of          120          92         121         122
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           1           3           0
+ neighbors of          121         102         114         120
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           3           2           1
+ pairs of vtx            3           2           1           3
+ neighbors of          122          94         120         123
+ pairs of vtx            1           2           2           3
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           1
+ neighbors of          123         117         122         124
+ pairs of vtx            1           2           3           3
+ pairs of vtx            2           0           0           2
+ pairs of vtx            3           3           1           0
+ neighbors of          124         123         125         126
+ pairs of vtx            1           3           1           1
+ pairs of vtx            2           2           0           3
+ pairs of vtx            3           0           2           0
+ neighbors of          125          95         107         124
+ pairs of vtx            1           3           3           1
+ pairs of vtx            2           2           0           0
+ pairs of vtx            3           0           1           2
+ neighbors of          126         109         118         124
+ pairs of vtx            1           1           0           1
+ pairs of vtx            2           0           3           3
+ pairs of vtx            3           2           2           0
+ neighbors of          127           2         128         136
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           0           3           0
+ neighbors of          128          84         127         146
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of          129           8         130         139
+ pairs of vtx            1           2           2           3
+ pairs of vtx            2           3           0           2
+ pairs of vtx            3           0           3           0
+ neighbors of          130         129         151         172
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          131         132         141         216
+ pairs of vtx            1           2           2           0
+ pairs of vtx            2           0           1           2
+ pairs of vtx            3           3           0           1
+ neighbors of          132          90         131         149
+ pairs of vtx            1           3           2           3
+ pairs of vtx            2           0           0           2
+ pairs of vtx            3           1           3           0
+ neighbors of          133         134         142         217
+ pairs of vtx            1           0           3           1
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           3           0           2
+ neighbors of          134         133         154         176
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of          135          27         136         138
+ pairs of vtx            1           2           3           2
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           0           3
+ neighbors of          136         127         135         161
+ pairs of vtx            1           2           3           1
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           2
+ neighbors of          137          30         138         139
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           0           3           0
+ neighbors of          138         135         137         166
+ pairs of vtx            1           2           0           1
+ pairs of vtx            2           0           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of          139         129         137         167
+ pairs of vtx            1           3           2           2
+ pairs of vtx            2           2           1           0
+ pairs of vtx            3           0           0           3
+ neighbors of          140         141         144         231
+ pairs of vtx            1           1           0           1
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           1           2
+ neighbors of          141         131         140         163
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           3
+ pairs of vtx            3           0           0           2
+ neighbors of          142         133         143         234
+ pairs of vtx            1           3           2           1
+ pairs of vtx            2           2           1           0
+ pairs of vtx            3           0           0           2
+ neighbors of          143         142         144         155
+ pairs of vtx            1           2           0           3
+ pairs of vtx            2           1           1           0
+ pairs of vtx            3           0           3           1
+ neighbors of          144         140         143         165
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           2           1           2
+ pairs of vtx            3           1           3           1
+ neighbors of          145         106         146         148
+ pairs of vtx            1           0           1           0
+ pairs of vtx            2           1           3           1
+ pairs of vtx            3           3           0           3
+ neighbors of          146         128         145         161
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           1
+ pairs of vtx            3           0           0           3
+ neighbors of          147         108         148         149
+ pairs of vtx            1           0           3           0
+ pairs of vtx            2           1           2           1
+ pairs of vtx            3           3           0           3
+ neighbors of          148         145         147         158
+ pairs of vtx            1           0           3           1
+ pairs of vtx            2           1           2           3
+ pairs of vtx            3           3           0           0
+ neighbors of          149         132         147         163
+ pairs of vtx            1           3           0           1
+ pairs of vtx            2           2           1           3
+ pairs of vtx            3           0           3           0
+ neighbors of          150         151         153         192
+ pairs of vtx            1           3           3           0
+ pairs of vtx            2           2           0           3
+ pairs of vtx            3           0           1           2
+ neighbors of          151         130         150         168
+ pairs of vtx            1           2           3           3
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           1
+ neighbors of          152         153         154         193
+ pairs of vtx            1           0           1           3
+ pairs of vtx            2           2           3           0
+ pairs of vtx            3           1           0           1
+ neighbors of          153         150         152         156
+ pairs of vtx            1           3           0           0
+ pairs of vtx            2           0           2           1
+ pairs of vtx            3           1           1           3
+ neighbors of          154         134         152         155
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           3
+ pairs of vtx            3           0           0           2
+ neighbors of          155         143         154         157
+ pairs of vtx            1           3           0           1
+ pairs of vtx            2           0           3           3
+ pairs of vtx            3           1           2           0
+ neighbors of          156         153         157         168
+ pairs of vtx            1           0           3           0
+ pairs of vtx            2           1           2           2
+ pairs of vtx            3           3           0           1
+ neighbors of          157         155         156         164
+ pairs of vtx            1           1           3           3
+ pairs of vtx            2           3           2           2
+ pairs of vtx            3           0           0           0
+ neighbors of          158         148         159         162
+ pairs of vtx            1           1           2           0
+ pairs of vtx            2           3           1           1
+ pairs of vtx            3           0           0           3
+ neighbors of          159         158         160         164
+ pairs of vtx            1           2           0           1
+ pairs of vtx            2           1           3           0
+ pairs of vtx            3           0           2           2
+ neighbors of          160         159         161         166
+ pairs of vtx            1           0           2           3
+ pairs of vtx            2           3           0           2
+ pairs of vtx            3           2           3           0
+ neighbors of          161         136         146         160
+ pairs of vtx            1           1           0           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           2           3           3
+ neighbors of          162         158         163         165
+ pairs of vtx            1           0           0           3
+ pairs of vtx            2           1           2           2
+ pairs of vtx            3           3           1           0
+ neighbors of          163         141         149         162
+ pairs of vtx            1           0           1           0
+ pairs of vtx            2           3           3           2
+ pairs of vtx            3           2           0           1
+ neighbors of          164         157         159         165
+ pairs of vtx            1           3           1           3
+ pairs of vtx            2           2           0           0
+ pairs of vtx            3           0           2           1
+ neighbors of          165         144         162         164
+ pairs of vtx            1           0           3           3
+ pairs of vtx            2           2           2           0
+ pairs of vtx            3           1           0           1
+ neighbors of          166         138         160         167
+ pairs of vtx            1           1           3           2
+ pairs of vtx            2           3           2           1
+ pairs of vtx            3           0           0           0
+ neighbors of          167         139         166         168
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          168         151         156         167
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           0           2           0
+ pairs of vtx            3           1           1           3
+ neighbors of          169           5         170         181
+ pairs of vtx            1           2           2           1
+ pairs of vtx            2           3           0           3
+ pairs of vtx            3           0           3           0
+ neighbors of          170          44         169         188
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of          171           7         172         178
+ pairs of vtx            1           3           0           2
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           0           3           0
+ neighbors of          172         130         171         192
+ pairs of vtx            1           2           0           1
+ pairs of vtx            2           0           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of          173         174         186         212
+ pairs of vtx            1           0           2           1
+ pairs of vtx            2           1           1           0
+ pairs of vtx            3           3           0           2
+ neighbors of          174          46         173         189
+ pairs of vtx            1           2           0           1
+ pairs of vtx            2           0           1           3
+ pairs of vtx            3           3           3           0
+ neighbors of          175         176         183         218
+ pairs of vtx            1           2           2           0
+ pairs of vtx            2           0           1           2
+ pairs of vtx            3           3           0           1
+ neighbors of          176         134         175         196
+ pairs of vtx            1           0           2           3
+ pairs of vtx            2           1           0           2
+ pairs of vtx            3           3           3           0
+ neighbors of          177           9         178         180
+ pairs of vtx            1           2           3           2
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           0           3
+ neighbors of          178         171         177         201
+ pairs of vtx            1           2           3           3
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           1
+ neighbors of          179          12         180         181
+ pairs of vtx            1           2           1           2
+ pairs of vtx            2           3           3           0
+ pairs of vtx            3           0           0           3
+ neighbors of          180         177         179         197
+ pairs of vtx            1           2           1           1
+ pairs of vtx            2           0           3           3
+ pairs of vtx            3           3           0           0
+ neighbors of          181         169         179         199
+ pairs of vtx            1           1           2           3
+ pairs of vtx            2           3           0           2
+ pairs of vtx            3           0           3           0
+ neighbors of          182         183         185         237
+ pairs of vtx            1           1           0           1
+ pairs of vtx            2           3           2           0
+ pairs of vtx            3           0           1           2
+ neighbors of          183         175         182         209
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           3           3
+ pairs of vtx            3           0           0           2
+ neighbors of          184         185         186         240
+ pairs of vtx            1           3           3           0
+ pairs of vtx            2           0           2           2
+ pairs of vtx            3           1           0           1
+ neighbors of          185         182         184         207
+ pairs of vtx            1           0           3           0
+ pairs of vtx            2           2           0           2
+ pairs of vtx            3           1           1           1
+ neighbors of          186         173         184         210
+ pairs of vtx            1           2           3           3
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           1
+ neighbors of          187          59         188         191
+ pairs of vtx            1           2           3           1
+ pairs of vtx            2           0           2           0
+ pairs of vtx            3           3           0           2
+ neighbors of          188         170         187         199
+ pairs of vtx            1           2           3           3
+ pairs of vtx            2           1           2           0
+ pairs of vtx            3           0           0           1
+ neighbors of          189          61         174         190
+ pairs of vtx            1           2           1           2
+ pairs of vtx            2           0           3           1
+ pairs of vtx            3           3           0           0
+ neighbors of          190         189         191         210
+ pairs of vtx            1           2           2           0
+ pairs of vtx            2           1           0           3
+ pairs of vtx            3           0           3           2
+ neighbors of          191         187         190         204
+ pairs of vtx            1           1           2           1
+ pairs of vtx            2           0           0           0
+ pairs of vtx            3           2           3           2
+ neighbors of          192         150         172         194
+ pairs of vtx            1           0           1           2
+ pairs of vtx            2           3           3           1
+ pairs of vtx            3           2           0           0
+ neighbors of          193         152         195         196
+ pairs of vtx            1           3           1           0
+ pairs of vtx            2           0           3           1
+ pairs of vtx            3           1           0           3
+ neighbors of          194         192         195         201
+ pairs of vtx            1           2           1           0
+ pairs of vtx            2           1           0           3
+ pairs of vtx            3           0           2           2
+ neighbors of          195         193         194         205
+ pairs of vtx            1           1           1           0
+ pairs of vtx            2           3           0           3
+ pairs of vtx            3           0           2           2
+ neighbors of          196         176         193         209
+ pairs of vtx            1           3           0           1
+ pairs of vtx            2           2           1           3
+ pairs of vtx            3           0           3           0
+ neighbors of          197         180         198         200
+ pairs of vtx            1           1           3           0
+ pairs of vtx            2           3           2           2
+ pairs of vtx            3           0           0           1
+ neighbors of          198         197         199         204
+ pairs of vtx            1           3           1           1
+ pairs of vtx            2           2           0           3
+ pairs of vtx            3           0           2           0
+ neighbors of          199         181         188         198
+ pairs of vtx            1           3           3           1
+ pairs of vtx            2           2           0           0
+ pairs of vtx            3           0           1           2
+ neighbors of          200         197         201         202
+ pairs of vtx            1           0           1           0
+ pairs of vtx            2           2           0           3
+ pairs of vtx            3           1           2           2
+ neighbors of          201         178         194         200
+ pairs of vtx            1           3           0           1
+ pairs of vtx            2           0           3           0
+ pairs of vtx            3           1           2           2
+ neighbors of          202         200         203         205
+ pairs of vtx            1           0           1           1
+ pairs of vtx            2           3           0           3
+ pairs of vtx            3           2           2           0
+ neighbors of          203         202         204         208
+ pairs of vtx            1           1           0           1
+ pairs of vtx            2           0           3           0
+ pairs of vtx            3           2           2           2
+ neighbors of          204         191         198         203
+ pairs of vtx            1           1           1           0
+ pairs of vtx            2           0           3           3
+ pairs of vtx            3           2           0           2
+ neighbors of          205         195         202         206
+ pairs of vtx            1           0           1           1
+ pairs of vtx            2           3           3           3
+ pairs of vtx            3           2           0           0
+ neighbors of          206         205         207         209
+ pairs of vtx            1           1           3           0
+ pairs of vtx            2           3           2           2
+ pairs of vtx            3           0           0           1
+ neighbors of          207         185         206         208
+ pairs of vtx            1           0           3           3
+ pairs of vtx            2           2           2           0
+ pairs of vtx            3           1           0           1
+ neighbors of          208         203         207         210
+ pairs of vtx            1           1           3           0
+ pairs of vtx            2           0           0           2
+ pairs of vtx            3           2           1           1
+ neighbors of          209         183         196         206
+ pairs of vtx            1           0           1           0
+ pairs of vtx            2           3           3           2
+ pairs of vtx            3           2           0           1
+ neighbors of          210         186         190         208
+ pairs of vtx            1           3           0           0
+ pairs of vtx            2           0           3           2
+ pairs of vtx            3           1           2           1
+ neighbors of          211          45         212         221
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           2           0           1
+ pairs of vtx            3           1           3           3
+ neighbors of          212         173         211         242
+ pairs of vtx            1           1           2           2
+ pairs of vtx            2           0           0           0
+ pairs of vtx            3           2           3           3
+ neighbors of          213          47         214         224
+ pairs of vtx            1           1           0           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           2           3           3
+ neighbors of          214          87         213         227
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           2           1           1
+ pairs of vtx            3           1           3           3
+ neighbors of          215          89         216         230
+ pairs of vtx            1           0           0           2
+ pairs of vtx            2           2           1           0
+ pairs of vtx            3           1           3           3
+ neighbors of          216         131         215         233
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           2           1           1
+ pairs of vtx            3           1           3           3
+ neighbors of          217         133         218         236
+ pairs of vtx            1           1           0           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           2           3           3
+ neighbors of          218         175         217         239
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           2           1           1
+ pairs of vtx            3           1           3           3
+ neighbors of          219          54         220         222
+ pairs of vtx            1           1           2           0
+ pairs of vtx            2           0           0           1
+ pairs of vtx            3           2           3           3
+ neighbors of          220         219         221         243
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          221         211         220         242
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of          222          56         219         223
+ pairs of vtx            1           1           0           0
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           2           3           3
+ neighbors of          223         222         224         245
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of          224         213         223         227
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          225          96         226         228
+ pairs of vtx            1           1           2           0
+ pairs of vtx            2           0           0           1
+ pairs of vtx            3           2           3           3
+ neighbors of          226         225         227         246
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          227         214         224         226
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of          228          98         225         229
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           2           1           1
+ pairs of vtx            3           1           3           3
+ neighbors of          229         228         230         249
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of          230         215         229         233
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          231         140         232         234
+ pairs of vtx            1           1           2           0
+ pairs of vtx            2           0           0           1
+ pairs of vtx            3           2           3           3
+ neighbors of          232         231         233         250
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          233         216         230         232
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of          234         142         231         235
+ pairs of vtx            1           1           0           0
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           2           3           3
+ neighbors of          235         234         236         248
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of          236         217         235         239
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          237         182         238         240
+ pairs of vtx            1           1           2           0
+ pairs of vtx            2           0           0           1
+ pairs of vtx            3           2           3           3
+ neighbors of          238         237         239         247
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          239         218         236         238
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of          240         184         237         241
+ pairs of vtx            1           0           0           0
+ pairs of vtx            2           2           1           1
+ pairs of vtx            3           1           3           3
+ neighbors of          241         240         242         244
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of          242         212         221         241
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of          243         220         244         245
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          244         241         243         247
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of          245         223         243         246
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of          246         226         245         249
+ pairs of vtx            1           2           2           2
+ pairs of vtx            2           0           1           0
+ pairs of vtx            3           3           0           3
+ neighbors of          247         238         244         248
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
+ neighbors of          248         235         247         250
+ pairs of vtx            1           0           2           0
+ pairs of vtx            2           1           1           1
+ pairs of vtx            3           3           0           3
+ neighbors of          249         229         246         250
+ pairs of vtx            1           0           2           2
+ pairs of vtx            2           1           0           1
+ pairs of vtx            3           3           3           0
+ neighbors of          250         232         248         249
+ pairs of vtx            1           2           0           2
+ pairs of vtx            2           0           1           1
+ pairs of vtx            3           3           3           0
